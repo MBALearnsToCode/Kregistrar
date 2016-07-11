@@ -1,6 +1,6 @@
 from __future__ import division, print_function
 import bokeh.plotting
-from bokeh.io import push_notebook
+from bokeh.io import push, push_notebook, push_session
 import copy
 from keras.callbacks import Callback
 import numpy
