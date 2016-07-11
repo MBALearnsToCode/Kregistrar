@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='Kregistrar',
-    version='0.0.0',
+    version='0.0.1',
     packages=['Kregistrar'],
     url='https://github.com/adatao/Kregistrar',
     author='Arimo, Inc.',
